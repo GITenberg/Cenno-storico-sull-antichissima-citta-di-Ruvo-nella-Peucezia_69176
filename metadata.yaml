@@ -1,0 +1,26 @@
+_repo: Cenno-storico-sull-antichissima-citta-di-Ruvo-nella-Peucezia_69176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jatta, Giovanni
+    gutenberg_agent_id: '55148'
+    url: http://www.gutenberg.org/2009/agents/55148
+description: ''
+gutenberg_issued: '2022-10-18'
+identifiers:
+  gutenberg: '69176'
+language: it
+pgterms:marc904: https://archive.org/details/cennostoricosull00jatt
+pgterms:marc905: 20210417014507jatta
+pgterms:marc906: '1844'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: 'Italy: Porcelli,1844.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cenno storico sull'antichissima città di Ruvo nella Peucezia
+url: http://www.gutenberg.org/ebooks/69176
